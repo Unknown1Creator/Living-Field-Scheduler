@@ -4,6 +4,8 @@ Living Field Scheduler is a scheduler that # Project Overview: The Living Field 
 
 **Stop treating your system resources like static buckets.** **Start seeing them as a living, breathing ecosystem.**
 
+This is only a starting point, not a full method, adjust it for your needs.
+
 ---
 
 ### 🚀 What This Is
